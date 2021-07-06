@@ -2,7 +2,7 @@
 
 ## Descripción.
 
-_Implementación de una topología de red BUS usando la distribución Mininet._
+_Implementación de una topología de red Mixta usando la distribución Mininet._
 
 ## INTEGRANTES GRUPO E:
 
