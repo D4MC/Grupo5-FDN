@@ -20,4 +20,3 @@ una vez instalada la máquina virtual, se debe abrir LX Terminal, en la ruta:
 
 code Start/Accessories/LXTerminal
 
-<img src="C:\Users\Darwin\Desktop\mininet\Captura0" alt="My cool logo"/>
